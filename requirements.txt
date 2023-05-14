@@ -1,0 +1,11 @@
+flask
+flask_restful
+google.cloud
+google.cloud.vision
+pillow
+waitress
+werkzeug
+pyspellchecker
+pytesseract
+opencv-python
+numpy
